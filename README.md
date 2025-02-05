@@ -21,10 +21,11 @@ During my M.Tech (Master of Technology) course, I conducted a literature survey 
     • Ecosystem – Build an ecosystem and libraries for displays, haptic feedback, sensors, and other hardware to support the maximum number of hardware resources.  
 
 ### 3. Project Roadmap
-
-- PHASE 1 – Selection of component based on requirements.  
-- PHASE 2 – Develop a prototype and test all functionalities. 
-- PHASE 3 – Build the PCB and firmware after completing the prototype.
-- PHASE 4 – Final assembly of hardware.
-- PHASE 5 – Develop Android and iOS application. 
+ | PHASES  |                              DESCRIPTION                               |    STATUS              |
+ | :------:|:-----------------------------------------------------------------------| :----------------------|
+ | PHASE 1 | Selection of component based on requirements.                          |          ✅           |
+ | PHASE 2 | Develop a prototype and test all functionalities.                      |    In progress         |
+ | PHASE 3 | Build the PCB and firmware after completing the prototype.             |                        |
+ | PHASE 4 | Final assembly of hardware.                                            |                        |
+ | PHASE 5 | Develop Android and iOS application.                                   |                        |
 
