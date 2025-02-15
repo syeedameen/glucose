@@ -55,7 +55,7 @@ Choosing the 1.69" rectangular display was an obvious choice for me because its 
 
 ### 4.2 Schematic 
 
-![schematic](https://github.com/syeedameen/glucose/hardware/schematic.png)
+![schematic](https://github.com/syeedameen/glucose/blob/main/hardware/schematic.png)
 
 
 
