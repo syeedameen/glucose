@@ -54,10 +54,23 @@ Choosing the 1.69" rectangular display was an obvious choice for me because its 
 
 
 ### 4.2 Schematic 
-
 ![schematic](https://github.com/syeedameen/glucose/blob/main/hardware/schematic.png)
 
 
+### 4.3 ESP32-C3-MINI-1 Wifi BLE Module
+![ESP32-C3-MINI-1](https://github.com/syeedameen/glucose/blob/main/Resources/Prototype/ESP32-C3.jpg)
+
+
+### 4.4 ESP32-C3 SOC 
+![ESP32-C3 SOC](https://github.com/syeedameen/glucose/blob/main/Resources/Prototype/ESP32-C3_IC.jpg)
+
+
+### 4.5 MAX30102 - PULSE OXIMETRY AND HEART RATE SENSOR 
+![MAX30120](https://github.com/syeedameen/glucose/blob/main/Resources/Prototype/MAX30102.jpg)
+
+
+### 4.6 RP2040 - 32-BIT RASPBERRY PI DUAL CORE ARM CORTEX-M0+ MICROCONTROLLER 
+![RP2040](https://github.com/syeedameen/glucose/blob/main/Resources/Prototype/RP2040.jpg)
 
 
 
